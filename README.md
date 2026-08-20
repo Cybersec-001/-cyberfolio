@@ -42,7 +42,4 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 - Update `script.js` for animation effects
 
 ## Contact
-
-- Email: dt668259@gmail.com
-- GitHub: [Deepak-tiwari-cyber](https://github.com/Deepak-tiwari-cyber)
 - LinkedIn: [Deepak Tiwari](https://linkedin.com/in/deepak-tiwari-95a103265) 
