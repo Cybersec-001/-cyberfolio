@@ -1,45 +1,42 @@
-# Deepak Tiwari's Portfolio Website
+# Cyberfolio - Deepak Tiwari's Portfolio
 
-A modern, responsive portfolio website showcasing my skills, projects, and experience in cybersecurity and web development.
+My personal portfolio website: a single-page static site introducing who I am, my skills, and my projects.
 
-## Features
+## Tech stack
 
-- 🎨 Modern UI with Glassmorphism effect
-- 🌌 Matrix background animation
-- ✍️ Typing effect for dynamic text
-- 📱 Fully responsive design
-- ⚡ Smooth scrolling and animations
-- 🎯 SEO optimized
-
-## Tech Stack
-
-- HTML5
-- Tailwind CSS
-- JavaScript (ES6+)
-- Typed.js for typing effect
-- AOS.js for scroll animations
-- Canvas API for matrix effect
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS (CDN)
+- Typed.js (typing animation), AOS.js (scroll animations)
+- Canvas API (Matrix-style background)
 
 ## Sections
 
-1. Hero Section with Matrix Background
-2. About Me
-3. Skills & Tools
-4. Projects
-5. Contact Information
-6. Footer
+- Hero with animated matrix background
+- About me
+- Skills and tools
+- Projects (ReconX, Password Manager)
+- GitHub stats
+- Resume (inline PDF preview + download)
+- Contact
 
-## Getting Started
+## Run locally
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. That's it! No build process required
+No build step needed:
+
+```bash
+git clone https://github.com/Cybersec-001/-cyberfolio.git
+cd -cyberfolio
+# open index.html in a browser, or serve it:
+python -m http.server 8000
+```
 
 ## Customization
 
-- Edit `index.html` to update content
-- Modify `styles.css` for styling changes
-- Update `script.js` for animation effects
+- `index.html` - content and sections
+- `styles.css` - glassmorphism styling and theme
+- `script.js` - typing effect, matrix background, scroll animations
 
 ## Contact
-- LinkedIn: [Deepak Tiwari](https://linkedin.com/in/deepak-tiwari-95a103265) 
+
+- LinkedIn: [Deepak Tiwari](https://linkedin.com/in/deepak-tiwari-95a103265)
+- Email: deepaktiwari.cybersec@gmail.com
